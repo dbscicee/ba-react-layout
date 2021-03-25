@@ -1,3 +1,27 @@
 .Bala {
     text-align: center;
+    background: palegreen;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.txt {
+    color: black;
+    text-align: right;
+    text-transform: lowercase;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 4px;
+    //font-family: Tahoma, Verdana, sans-serif;
+    //font-family: "Sofia", sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    //font-size: 30px;
+    font-size: 0.875em;
+}
+
+.gftext {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
