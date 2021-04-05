@@ -5,7 +5,7 @@ function Bala(){
 
     return(
         <div className="Bala">
-            <p> Section banner </p>
+            <p> Section banner multiple </p>
             <div className = "gftext">
                 <label>Select a Image file : </label>
                 <br />
